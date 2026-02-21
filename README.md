@@ -1,66 +1,82 @@
 <h1 align="center">Hi, I'm Lakshmi Bharathi 👋</h1>
+<h3 align="center">Data Scientist | ML & AI Engineer | Python • PySpark • AWS • LLMs</h3>
 
 <p align="center">
-  <a href="https://github.com/Lakshmi-Bharathi5">
-    <img src="https://komarev.com/ghpvc/?username=Lakshmi-Bharathi5&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://www.linkedin.com/in/lakshmi-bharathi-ilangovan-a8973121a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lakshmibharathi.ik@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="[https://www.linkedin.com/in/lakshmi-bharathi-i-a8973121a/](https://www.linkedin.com/in/lakshmi-bharathi-i-a8973121a/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://lakshmibharathi.netlify.app/](https://lakshmibharathi.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:lakshmibharathi.ik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👩‍💻 **About Me**  
-🔹 **Aspiring Data Analyst** | SQL | Python | Pandas | Power BI | AWS  
-🔹 Passionate about **Data Analytics and Data Engineering**  
+### 🧠 About Me
 
-
----
-
-
-### 🛠 **Tech Stack**  
-#### **Languages & Tools**  
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
-</p>
-
-
-#### **Development Tools**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL Developer" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-</p>
-
-### 🏆 **Competitive Coding Platforms**  
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-</p>
+- 🔭 Data Scientist at **Roni Analytics**, building production ML systems and AI agents
+- 🤖 Built a conversational AI agent for crypto market analysis using **AWS Bedrock + Claude 3.7 Sonnet + MCP**
+- 📈 Engineered real-time volatility indicators processing **500+ DEX pairs** with 80% buy/sell signal accuracy
+- 🏥 Former research intern at **IIT Madras** — deep learning for lung cancer diagnosis (92.7% accuracy)
+- 🎓 B.Tech from Rajalakshmi Engineering College, Chennai (GPA: 8.99/10)
+- 📬 Reach me at: **lakshmibharathi.ik@gmail.com**
 
 ---
 
-### 📫 **Let's Connect!**  
+### 🛠️ Tech Stack
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Big Data & Cloud**
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+
+**Machine Learning & AI**
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/RAG%20%2F%20LLMs-8A2BE2?style=flat)
+
+**Visualization & Tools**
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [💳 Credit Card Default Prediction](https://github.com/Lakshmi-Bharathi5/Machine-Learning-Notebooks) | Binary classifier on 30K customers, 0.781 AUC, handles 78-22 class imbalance | XGBoost, Scikit-learn |
+| [🏦 Loan Approval Prediction](https://github.com/Lakshmi-Bharathi5/Machine-Learning-Notebooks) | Automated loan decision system, 0.803 AUC, 87% precision, 80% decision automation | XGBoost, Logistic Regression |
+| 🤖 Crypto AI Agent | Conversational AI for real-time crypto market analysis via natural language | AWS Bedrock, Claude 3.7, MCP |
+| 📈 Prediction Market Platform | Processes 500+ markets with OpenAI sentiment analysis & 4 quant strategies | Streamlit, Polymarket API |
+
+---
+
+### 📜 Certifications
+
+- 🏅 HackerRank SQL — Advanced
+- 🏅 LeetCode Top 50 SQL Badge
+- 🏅 Python/Bash/SQL Essentials for Data Engineering — Coursera
+
+---
+
+### 🏆 Awards
+
+- 🥇 Innovative Leadership Award — Rotaract Club President
+- 🥇 Best Poster Award — International Conference on Infectious Diseases
+
+---
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/lakshmi-bharathi-ilangovan-a8973121a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lakshmibharathi.ik@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmi-Bharathi5&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmi-Bharathi5&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
