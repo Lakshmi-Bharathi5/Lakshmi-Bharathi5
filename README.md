@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lakshmi Bharathi 👋</h1>
-<h3 align="center">Data Scientist | ML & AI Engineer | Python • PySpark • AWS • LLMs</h3>
+<h3 align="center">Data Scientist | Python • PySpark • AWS • LLMs</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshmi-bharathi-i-a8973121a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
