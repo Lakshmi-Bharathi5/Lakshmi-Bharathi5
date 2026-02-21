@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Lakshmi Bharathi 👋</h1>
-<h3 align="center">Data Scientist | ML & AI Engineer | Python • PySpark • AWS • LLMs</h3>
+<h3 align="center">Data Scientist | Python • PySpark • AWS • LLMs</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/lakshmi-bharathi-i-a8973121a/](https://www.linkedin.com/in/lakshmi-bharathi-i-a8973121a/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://lakshmibharathi.netlify.app/](https://lakshmibharathi.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lakshmi-bharathi-i-a8973121a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://lakshmibharathi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:lakshmibharathi.ik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -77,6 +77,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmi-Bharathi5&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmi-Bharathi5&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmi-Bharathi5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmi-Bharathi5&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmi-Bharathi5&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
