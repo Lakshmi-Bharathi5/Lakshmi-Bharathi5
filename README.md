@@ -75,12 +75,3 @@
 - 🥇 Best Poster Award — International Conference on Infectious Diseases
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmi-Bharathi5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&hide=contribs" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmi-Bharathi5&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmi-Bharathi5&theme=tokyonight&hide_border=true" width="55%"/>
-</p>
