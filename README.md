@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lakshmi Bharathi 👋</h1>
-<h3 align="center">Data Scientist | Python • PySpark • AWS • LLMs</h3>
+<h3 align="center">Data Scientist | ML & AI Engineer | Python • PySpark • AWS • LLMs</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshmi-bharathi-i-a8973121a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -77,7 +77,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmi-Bharathi5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmi-Bharathi5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&hide=contribs" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmi-Bharathi5&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%"/>
 </p>
 
